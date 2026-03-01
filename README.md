@@ -12,4 +12,4 @@ PoisedWallpaper for macOS
 
 Fast, light, magnific.
 
-<img width="712" height="480" alt="image" src="https://github.com/user-attachments/assets/f63cba2d-4af8-4997-b2f7-6199c184fd97" />
+<img width="712" height="480" alt="PoisedWallpaper for macOS" src="https://github.com/user-attachments/assets/f91a5c2a-a0fe-4971-8edb-6ac00c7a6820" />
