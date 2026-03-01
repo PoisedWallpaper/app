@@ -1,4 +1,4 @@
-# PoisedWallpaper for MacOS app
+# PoisedWallpaper for macOS
 
 Download Now [latest release](https://github.com/PoisedWallpaper/app/releases/tag/v0.4.3-beta).
 
@@ -8,7 +8,7 @@ Looking for older releases? [Go here](https://github.com/PoisedWallpaper/app/rel
 ### Getting Started
 ---
 
-PoisedWallpaper for MacOS
+PoisedWallpaper for macOS
 
 Fast, light, magnific.
 
