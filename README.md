@@ -2,9 +2,7 @@
 
 Download Now [latest release](https://github.com/PoisedWallpaper/app/releases/tag/v0.4.3-beta).
 
-Looking for older releases?
-
-[Older release](https://github.com/PoisedWallpaper/app/releases)
+Looking for older releases? [Go here](https://github.com/PoisedWallpaper/app/releases)
 
 
 ### Getting Started
